@@ -16,7 +16,6 @@ public class Solution
 
     static
     {
-        //"MCMXCIV" : 1994
         romanNumMap.put('I',1);
         romanNumMap.put('V',5);
         romanNumMap.put('X',10);
